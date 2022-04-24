@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74e92e4d-78a2-43bb-b324-a04b9d42851d" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python软件教学需求（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChartUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/七年级上册——信息技术应用（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/七年级上册——电子表格数据处理（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/七年级下册——人工智能与机器人（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/七年级下册——网络基础知识（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/九年级全一册——程序开发初步（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/九年级全一册——程序语言基础（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/九年级全一册——编程思想简介（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五年级上册——文件管理（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五年级上册——病毒防治和行为管理（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五年级上册——编辑和美化文档（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五年级下册——信息技术与社会（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五年级下册——制作徽章与印章（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五年级下册——绘制创意画图（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/八年级上册——制作创意图像处理（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/八年级上册——图形图像初步认识（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/八年级上册——编辑处理图像（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/八年级下册——三维建模基础（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/八年级下册——三维设计初步（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/八年级下册——创作三维作品（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/六年级上册——图像采集与处理（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/六年级上册——视频采取与加工（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/六年级上册——音频获取与加工（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/六年级下册——图形化编程（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/六年级下册——机器人仿真（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/四年级上册——中英文输入（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/四年级上册——初步认识与基本操作（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/四年级上册——用《画图》画画（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/四年级下册——制作演示文稿（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/四年级下册——用网络信息交流（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/四年级下册——访问网络（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/教学方式方法（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/教学软件安装问题（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/教学软件注册问题（必填）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/饼图.xls" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28FR1OIa1tHL1d0dJnPaLBATBOB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ExcelTest.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="74e92e4d-78a2-43bb-b324-a04b9d42851d" name="变更" comment="" />
+      <created>1650810132048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650810132048</updated>
+      <workItem from="1650810133774" duration="5326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
